@@ -2,6 +2,7 @@
 
 A full-stack real-time collaboration platform built with **Django**, **Django REST Framework**, **Django Channels**, and **Next.js**. The application allows teams to create shared workspaces, communicate through real-time chat, manage collaborative notes, receive live notifications, and view online/offline member presence.
 
+![Real-Time Collaboration Platform](img.png)
 ---
 
 ## Table of Contents
